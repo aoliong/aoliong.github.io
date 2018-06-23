@@ -30,3 +30,7 @@
 个人同意以下看法，深度学习具备一些传统学习不具备的特点。
 比如对大量数据的扩展性和对相似任务的泛化能力。
 （这些观点都是摘录，不是个人原创。）
+
+## 附录
+
+### 1. 深度学习吴恩达的[入门教程](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/?utm_source=weibo.com&utm_medium=timeline&utm_campaign=deepLearning&utm_content=wnd20170831) 
