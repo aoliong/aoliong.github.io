@@ -5,3 +5,10 @@ defaults:
         path: "assets/img"
       values:
         image: true
+
+# In projects/foo_project.md
+---
+author: "Will Liao"
+layout: "foobar"
+---
+The post text goes here...
