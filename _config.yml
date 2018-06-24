@@ -1,14 +1,3 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
-defaults:
-    - scope:
-        path: "assets/img"
-      values:
-        image: true
-
-# In projects/foo_project.md
----
-author: "Will Liao"
-layout: "foobar"
----
-The post text goes here...
+baseurl: /aoliong.github.io
