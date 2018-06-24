@@ -1,6 +1,9 @@
 ## 你好，欢迎访问我的主页
 
-{% assign image_files = site.sttic_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path}}
-{% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
