@@ -3,9 +3,9 @@ layout: default
 title: 我的Blog
 ---
 
-<h2>{{ page.title }}</h2>
+# {{ page.title }}
 
-<p>最新文章</p>
+## 最新文章2
 
 <ul>
 
