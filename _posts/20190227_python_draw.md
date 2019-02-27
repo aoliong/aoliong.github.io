@@ -17,6 +17,8 @@ ax.set_xlabel('X');
 
 但是，当想控制多个子图的位置时，只使用dataframe.plot就不够了。
 
+![Alt text]../img/python_draw_plot_figure01.png)
+
 先理解一下axes和figure的概念，参考[这里](https://www.zhihu.com/question/51745620)。搞清楚这两个概念后，就可以结合起来使用了。
 
 ```python
@@ -38,3 +40,5 @@ ax = df2[['C']].plot(figsize=(10,4), ax=axes2)
 ax.set_title('标题2')
 ax.set_xlabel('X');
 ```
+
+![Alt text]../img/python_draw_plot_figure02.png)
